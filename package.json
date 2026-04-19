@@ -2,6 +2,7 @@
   "name": "srikannantravels",
   "version": "1.0.0",
   "scripts": {
-    "build": "node generate_photos.js"
+    "build": "node generate_photos.js",
+    "deploy": "echo done"
   }
 }
